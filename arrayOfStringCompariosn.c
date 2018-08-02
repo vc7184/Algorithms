@@ -5,7 +5,7 @@ int main()
 {
 	int i,s,q,j;
 	scanf("%d",&s);
-	char* str[100];
+	char* str[1];
 	for(i=0;i<s;i++){
 		str[i] = (char*)malloc(sizeof(s));
 		scanf("%s",str[i]);
