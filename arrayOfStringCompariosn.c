@@ -1,3 +1,16 @@
+/*Take this input
+Output will show the frequency of every element of second array in the first array
+4
+aba
+baba
+aba
+xzxb
+3
+aba
+xzxb
+ab
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
